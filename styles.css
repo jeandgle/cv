@@ -52,7 +52,7 @@ a:hover {
 /***************CONTAINERS**************/
 
 .top-container {
-  background-color: #eaf6f6;
+  background-color: white;
   position: relative;
   padding-top: 100px;
 }
@@ -70,7 +70,7 @@ a:hover {
 /***********IMAGES***********/
 
 .my-pic {
-  padding: 10px;
+  padding: 50px;
 }
 
 .top-cloud {
@@ -92,7 +92,7 @@ a:hover {
 }
 
 .mountain {
-  width: 305%;
+  width: 30%;
 }
 .security-pic {
   width: 25%;
