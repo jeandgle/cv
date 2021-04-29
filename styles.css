@@ -70,7 +70,7 @@ a:hover {
 /***********IMAGES***********/
 
 .my-pic {
-  padding: 50px;
+  padding: 30px;
 }
 
 .top-cloud {
@@ -92,8 +92,9 @@ a:hover {
 }
 
 .mountain {
-  width: 30%;
+  width: 28%;
 }
+
 .security-pic {
   width: 25%;
   float: right;
@@ -127,12 +128,12 @@ a:hover {
   width: 40%;
   margin: 40px auto 60px;
 }
+
 .copyright {
   color: #eaf6f6;
   font-size: .75rem;
   font-family: 'Montserrat', sans-serif;
   padding: 20px 0;
-
 }
 
 /**********BUTTONS**********/
