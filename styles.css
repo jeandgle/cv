@@ -130,6 +130,10 @@ a:hover {
   margin: 40px auto 60px;
 }
 
+.contact-h3 {
+  font-weight: normal;
+}
+
 .copyright {
   color: #eaf6f6;
   font-size: .75rem;
