@@ -1,2 +1,2 @@
-# https://jeandgle.github.io/cv
+# https://edwardslucky13.com/
 My Resume' 
