@@ -55,7 +55,7 @@ a:hover {
 .top-container {
   background-color: white;
   position: relative;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .middle-container {
@@ -71,19 +71,7 @@ a:hover {
 /***********IMAGES***********/
 
 .my-pic {
-  padding: 30px;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
+  padding: 10px;
 }
 
 .computer-pic {
@@ -93,8 +81,8 @@ a:hover {
 }
 
 .logo {
-  width: 75%;
-  padding-bottom: 25px;
+  width: 50%;
+  padding-bottom: 10px;
 }
 
 .security-pic {
