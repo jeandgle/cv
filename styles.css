@@ -10,14 +10,14 @@ body {
 h1 {
   color: #66bfbf;
   font-family: 'Montserrat', cursive;
-  font-size: 4rem;
+  font-size: 2rem;
   margin: 50px 0 0 0;
 }
 
 h2 {
   color: #51A6B3;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   margin-top: 0;
 }
@@ -37,7 +37,7 @@ hr {
 P {
   margin: 0;
 color: #40514e;
-line-height: 2;
+line-height: 1;
 }
 
 a {
@@ -114,7 +114,7 @@ a:hover {
 }
 
 .skill-row {
-  line-height: 2;
+  line-height: 1;
   text-align: left;
   margin: 100px auto 100px auto;
   width: 90%;
