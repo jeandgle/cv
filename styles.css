@@ -85,6 +85,12 @@ a:hover {
   padding-bottom: 10px;
 }
 
+.marketing-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
 .security-pic {
   width: 25%;
   float: right;
