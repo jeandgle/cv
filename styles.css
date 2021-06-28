@@ -71,6 +71,7 @@ a:hover {
 
 .my-pic {  
    padding: 20px;
+  position: relative;
 }
 
 .computer-pic {
@@ -99,8 +100,7 @@ a:hover {
 
 .intro {
   line-height: 1;
-  text-align: left;
-  margin: 10px 150px 0 150px;
+   margin: 0 150px 0 150px;
   }
 
 .footer-link {
