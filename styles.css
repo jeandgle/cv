@@ -100,7 +100,11 @@ a:hover {
 /**********CLASSES**********/
 
 .intro {
-  margin: 0 150px 0 150px;
+    color: #40514e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  margin: 0;
+  text-align: center;
 }
 
 .footer-link {
