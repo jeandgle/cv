@@ -9,7 +9,7 @@ body {
 
 h1 {
   color: #66bfbf;
-  font-family: 'Montserrat', cursive;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   margin: 10px 0 0 0;
 }
@@ -31,7 +31,7 @@ hr {
   border: dotted #11999e 6px;
   border-bottom: none;
   width: 5%;
-  margin: 20px auto;
+  margin: 50px auto;
 }
 
 P {
@@ -71,7 +71,8 @@ a:hover {
 /***********IMAGES***********/
 
 .my-pic {
-   padding: 10px;
+  width: 80%;
+   padding: 20px;
 }
 
 .computer-pic {
@@ -108,14 +109,14 @@ a:hover {
 }
 
 .skills {
-  margin: 20px auto 20px auto;
+  margin: 50px auto 50px auto;
   width: 85%;
 }
 
 .skill-row {
   line-height: 1;
   text-align: left;
-  margin: 20px auto 20px auto;
+  margin: 50px auto 50px auto;
   width: 90%;
 }
 
