@@ -57,6 +57,8 @@ a:hover {
  
 .middle-container {
   background-color: white;
+    position: relative;
+  padding-top: 10px;
 }
 
 .bottom-container {
@@ -97,7 +99,7 @@ a:hover {
 
 .intro {
   line-height: 1;
-  text-align: center;
+  text-align: left;
   margin: 10px 150px 0 150px;
   }
 
