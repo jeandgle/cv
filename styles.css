@@ -76,7 +76,7 @@ a:hover {
 }
 
 .computer-pic {
-  width: 5%;
+  width: 15%;
   float: left;
   margin-right: 30px;
 }
@@ -86,15 +86,15 @@ a:hover {
 }
 
 .marketing-pic {
-  width: 5%;
+  width: 15%;
   float: left;
-  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .security-pic {
-  width: 5%;
+  width: 15%;
   float: left;
-  margin-left: 30px;
+  margin-right: 30px;
 }
 
 /**********CLASSES**********/
