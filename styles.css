@@ -11,6 +11,7 @@ h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   margin: 10px 0 0 0;
+  text-align: center;
 }
 
 h2 {
@@ -19,6 +20,7 @@ h2 {
   font-size: 1.5rem;
   font-weight: bold;
   margin-top: 0;
+  text-align: center;
 }
 
 h3 {
@@ -72,7 +74,7 @@ a:hover {
 
 .my-pic {  
    padding: 20px;
-  position: relative;
+  position: center;
 }
 
 .computer-pic {
@@ -83,6 +85,7 @@ a:hover {
 
 .logo {
   padding-bottom: 2px;
+  position: center;
 }
 
 .marketing-pic {
