@@ -51,7 +51,8 @@ a:hover {
 
 .top-container {
   background-color: white;
-  padding-top: 5px;
+   position: relative;
+  padding-top: 10px;
 }
  
 .middle-container {
