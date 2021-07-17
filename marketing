@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Edwards Lucky 13</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="EL13logo.png">
+      <link rel="preconnect"href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Roboto:ital,wght@0,400;1,100&display=swap" rel="stylesheet">
+  </head>
+<body>
+    <div class="top-container">
+      <img Class="logo" src="EL13logo.png" alt="logo">
+    </div>
+    <div class="middle-container">
+            <h1>Are you ready to market your business?</h1>
+        <p class="intro">do. Customers need to hear your message several times, so marketing is the concentrated effort to push your brand across a variety of 
+        platforms and hope that enough makes it through to your ideal customer. There are many different schools and opinions on the best way to market your 
+        business. But, if you are just starting on your marketing journey, this guide outlines simple steps to help you market your small business: 
+</p>
+<p>1. Get organized.  <br>
+Getting an organized plan is the first step in any marketing effort. Organize your thought, and then write it all down. Start with brainstorming, create themes and 
+transfer action items to a calendar or to-do list. Take small steps and try to get a good return on investment for everything you do. Create a concise and 
+well-rehearsed elevator pitch: What can you tell people about your business, products and services in 30 seconds or less that keeps them interested and wanting more? 
+Get your current customer’s input early and often. If you are opening a storefront or restaurant, try hosting a soft opening or invitation-only event to get the 
+kinks worked out and your mishaps and mistakes out of the way. Whatever you do to start, always strive to make a good first impression. </p>
+
+<p>2. Get a website.  <br>
+In today’s technology-based world, the first thing a potential customer or employee does is Google your business. You need a website to show you’re real and 
+offer information about your business to potential customers. Make sure your website is mobile-friendly and be sure to include search engine optimization 
+techniques. Use Google Analytics to track the traffic to your website, and be very cautious with people who promise you top positions on search engines. While there 
+are lots of things that can be done to increase your ranking on various search engines, unless the developer works for Google, a promise to get you to the top is 
+almost always a ruse. There are a ton of do-it-yourself website services, but depending on the features you need on your site, some things are better left to the experts. </p>
+
+<p>3. Leverage social media.  <br>
+Let’s face it, everyone is on social media these days, and the majority of traffic still occurs on Facebook. If you are not using Facebook for your business, create a 
+page today. You are leaving money on the table if you don’t. There has been a shift the past few years with more and more retirees joining the social media world. In fact, 
+retirees are often my best brand ambassadors and help promote our events throughout their groups and friends. </p>
+
+<p>4. Set up and claim your business online.  <br>
+Whether you get on board or not, information about your business is and will be on the internet. As a smart business owner, you need to proactively control what people 
+read or see about your business when they Google it? Do a search on different browsers to see what information you see about your company and then claim or create a 
+listing for your business. </p>
+
+<p>5. Use Google AdWords.  <br>
+Try utilizing Google AdWords to specifically target the types of products or services you offer. Focus on the quality of a few keywords instead of choosing too many. 
+AdWords are great for targeting specific geographic locations and give you the ability to control your budget with flexible pricing options. </p>
+
+<p>6. Create local awareness and establish a network. Join chambers of commerce, business associations, and social media and community groups. <br>
+Find ways to get involved. Networking is a great way to capture business leads as long as you don’t come on too strong. It allows you to meet new contacts and create more 
+brand awareness and new referrals. Sponsor social events, nonprofit events or anything that is for a good cause. Get your name out there while also being a good community 
+steward. Give away promotional items with your business name, logo and contact info on them. T-shirts are always popular and they are a great example of free walking 
+advertisements for your business. </p>
+
+<p>7. Offer coupons or free products/services.  <br>
+Create loyalty early on. A happy customer will come back and will tell their friends about you. Create a buzz with brand ambassadors. These can be family and friends who 
+help promote your products or services. </p>
+
+<p>8. Advertise.  <br>
+If you build it, they still may not come. You must get out there and tell people who you are, why your product or service is different from the competition and how to find 
+you. Marketing and Advertising are not a one-size fits all solution. Find what works for you, but whatever you do, you must put forth the effort or your business could 
+fail. <p>
+
+<p>More than anything, focus on consistent, repetitive branding. An old adage with marketing professionals is the “rule of seven,” which means people need to hear or see your 
+message at least seven times before taking any action. In today’s world of constant connectivity, you must make sure you’re seen and heard. The most common reason that 
+people do not buy your product or service is that they do not know about it yet. </p>
+
+<p>Hopefully this quick guide will help you as you start and continue to run your business. If you have any questions or concerns, please feel free to contact us at \
+<a href="https://edwardslucky13.com">edwardslucky13.com</a>. We would be happy to discuss your unique issues and find a solution that you can afford and see results. </p>
+       
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3> <div class="contact-h3">If you need help with your organization's online presence, please contact me.</h3>
+        <p>Although I am based out of Andrews, South Carolina, USA, I am capable of working remotely just about
+          anywhere in the world.</p>
+          <br>
+        <a class="BUTTON_CIM" href="mailto:jerry@edwardslucky13.com">Email Me</a>
+      </div>
+    </div>
+  </div>
+    <div class="bottom-container">
+           <a class="footer-link" href="https://www.facebook.com/Edwards-Lucky-13-110686157879065e">Facebook</a>
+      <a class="footer-link" href="https://www.instagram.com/edwardslucky13sc/">Instagram</a>
+      <a class="footer-link" href="https://www.woundednature.org">Woundednature.org</a>
+<br><br />
+      <p class="copyright">© 2021 Edwards Lucky 13</p>
+    </div>
+</body>
+</html>
+© 2021 GitHub, Inc.
